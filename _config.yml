@@ -1,0 +1,14 @@
+layout_spectrum: 0.688172
+typography_spectrum: 0.9103943
+color:
+  saturation: 0.2867384
+  lightness: 1
+  brandStrength: 0.2741936
+  brandColors:
+    - '#787787'
+    - '#312F2F'
+    - '#B5906E'
+    - '#BEB49A'
+    - '#9A4442'
+  rhythmicContrast: 0
+name: Duettes
