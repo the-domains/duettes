@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Duettes]]></title>
         <description><![CDATA[Duettes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/duettes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 20:49:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 20:52:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/duettes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ccb8e66-3a90-4941-849e-730b6118ed55.jpg">]]></description>
+            <link>https://thegrid.ai/duettes/d8ad2c73-c452-4afd-b591-9aa5ae7ec11b/index.html</link>
+            <guid isPermaLink="false">d8ad2c73-c452-4afd-b591-9aa5ae7ec11b</guid>
+            <pubDate>Wed, 10 Feb 2016 20:52:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>testing</p>]]></description>
-            <link>undefinede3b82b5d-eda9-45ae-9660-f425e0df12a5/index.html</link>
+            <link>https://thegrid.ai/duettes/e3b82b5d-eda9-45ae-9660-f425e0df12a5/index.html</link>
             <guid isPermaLink="false">e3b82b5d-eda9-45ae-9660-f425e0df12a5</guid>
             <pubDate>Wed, 10 Feb 2016 20:49:41 GMT</pubDate>
         </item>
