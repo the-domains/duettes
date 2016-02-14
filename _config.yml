@@ -1,3 +1,7 @@
+name: Duettes
+favicon: null
+layout_spectrum: 0.71395
+typography_spectrum: 0.7626
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9103943
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2867384
-  brandStrength: 0.2741936
-  rhythmicContrast: 0
   brandColors:
-    - '#787787'
-    - '#312F2F'
-    - '#B5906E'
-    - '#BEB49A'
-    - '#9A4442'
-  lightness: 1
-layout_spectrum: 1
-name: Duettes
+    - '#221b19'
+    - '#f4f8fb'
+    - '#babfc5'
+    - '#6f8597'
+    - '#655e55'
+  brandStrength: 0.2741936
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0
+purpose: []
