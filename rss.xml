@@ -4,8 +4,15 @@
         <description><![CDATA[Duettes]]></description>
         <link>https://thegrid.ai/duettes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 05:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 05:43:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/duettes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d750b8b1-01df-4484-bbfe-c100ef64e68b.jpg">]]></description>
+            <link>https://thegrid.ai/duettes/37d83178-3d94-4d20-9a8a-d1f4cc0db15b/index.html</link>
+            <guid isPermaLink="false">37d83178-3d94-4d20-9a8a-d1f4cc0db15b</guid>
+            <pubDate>Sun, 14 Feb 2016 05:42:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2c0474-7e70-47f5-b244-cebdedf754e9.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/duettes/2eeda863-bd7d-48e5-b245-5cce8c499918/index.html</link>
             <guid isPermaLink="false">2eeda863-bd7d-48e5-b245-5cce8c499918</guid>
             <pubDate>Sat, 13 Feb 2016 21:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ccb8e66-3a90-4941-849e-730b6118ed55.jpg">]]></description>
-            <link>https://thegrid.ai/duettes/d8ad2c73-c452-4afd-b591-9aa5ae7ec11b/index.html</link>
-            <guid isPermaLink="false">d8ad2c73-c452-4afd-b591-9aa5ae7ec11b</guid>
-            <pubDate>Wed, 10 Feb 2016 20:52:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
