@@ -1,9 +1,30 @@
-favicon: null
-name: Duettes
+typography_spectrum: 0.9731183
+color:
+  saturation: 0.5394265
+  brandStrength: 0.4713262
+  lightness: 0.7240143
+  brandColors:
+    - '#DDCAA9'
+    - '#170F0D'
+    - '#94B7DF'
+    - '#525356'
+    - '#6181A3'
+  rhythmicContrast: 0.2759857
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7150537
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Duettes
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: ' derevileDed stnirP trA'
 purpose: []
-color:
-  saturation: 0.5394265
-  brandStrength: 0.4713262
-  lightness: 0.7240143
-  brandColors:
-    - '#DDCAA9'
-    - '#170F0D'
-    - '#94B7DF'
-    - '#525356'
-    - '#6181A3'
-  rhythmicContrast: 0.2759857
-typography_spectrum: 0.9731183
-layout_spectrum: 0.7150537
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
